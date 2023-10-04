@@ -13,7 +13,6 @@ Fact table : It will have the data about the transactions
 ❇️ gdb041
 
       ⚫ dim_customer
-      
             👉 27 distinct markets (ex India, USA, spain) 
             👉 75 distinct customers thorough out the market
             👉 2 types of platforms
